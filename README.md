@@ -13,10 +13,6 @@ or
 <br>
 👥 [LinkedIn](https://www.linkedin.com/in/monika-lie/)
 <br><br>
-￫ Link to my portfolio can be found [here](here).
-<br>
-(Portfolio coming soon ...)
-<br><br>
 ## 🛠️ My tech stack 
 
 ### Back-end
@@ -70,5 +66,4 @@ or
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br>
-<br>
+<br><br>
